@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=NNNNzs)
 
-![](https://api.nnnnzs.cn/V2/track/svg)
+![](https://api.nnnnzs.cn/V2/track/clock.svg)
